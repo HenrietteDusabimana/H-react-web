@@ -10,13 +10,13 @@ function Cards() {
         <div className="cards__wrapper">
           <ul className="cards__items">
             <CardItem
-              src="images/ikivu.jpg"
+              src="assets/ikivu.jpg"
               text="Explore the hidden beauty of Rubavu city"
               label="Adventure"
               path="/services"
             />
             <CardItem
-              src="images/Kibuye.jpg"
+              src="assets/Kibuye.jpg"
               text="You want to refresh with quite waves of Kivu?"
               label="Relax"
               path="/services"
@@ -24,19 +24,19 @@ function Cards() {
           </ul>
           <ul className="cards__items">
             <CardItem
-              src="images/kcc.jpg"
+              src="assets/kcc.jpg"
               text="The famous egg KCC, enjoy the beauty of Kigali nights"
               label="City"
               path="/services"
             />
             <CardItem
-              src="images/culture.jpg"
+              src="assets/culture.jpg"
               text="Experience Rwandan Traditional Dance among other cultures"
               label="Culture"
               path="/products"
             />
             <CardItem
-              src="images/green.jpg"
+              src="assets/green.jpg"
               text="1000 Green Hills"
               label="Environment"
               path="/sign-up"
